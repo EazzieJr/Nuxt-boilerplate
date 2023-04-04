@@ -31,6 +31,7 @@ export default {
   modules: [
     // https://go.nuxtjs.dev/pwa
     '@nuxtjs/pwa',
+    'nuxt-route-meta'
   ],
 
   // PWA module configuration: https://go.nuxtjs.dev/pwa
