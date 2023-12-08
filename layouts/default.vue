@@ -5,6 +5,8 @@
 </template>
 
 <script>
+import Lenis from '@studio-freight/lenis'
+
 export default {
 	methods: {
     initLenis() {
